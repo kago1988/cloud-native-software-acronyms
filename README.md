@@ -20,4 +20,5 @@ Terraform ami = terraform amazon machine image
 EC2 = Elastic Cloud Compute  
 S3 = Simple Storage Service  
 DNS = Domain Name System = "is responsible for translating domain names into a specific IP address so that the initiating client can load the requested Internet resources"  
+TCP/IP = Transmission Control Protocol / Internet Protocol = Internet protocol suite = "provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received"  
 ```
