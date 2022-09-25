@@ -8,7 +8,7 @@ AKS = Azure Kubernetes Service
 EKS = Elastic Kubernetes Service  
 GKS = Google Kubernetes Engine  
 ARM = Azure Resource manager (Microsoft)  
-ACR = Azure Container Registry  
+ACR = Azure Container Registry Instanz  
 Imperative = with CLI  
 Declarative = yaml  / json / config  
 Cluster > Node > Pod > Container > App / Server / DB  
