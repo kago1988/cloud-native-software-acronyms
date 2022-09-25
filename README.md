@@ -1,4 +1,4 @@
-acronyms-for-cloud-native-software
+#cloud-native-software-acronyms
 (Hobby) Here is a list of important acronyms which are frequently used, when you work on cloud-native software 
 
 ```
