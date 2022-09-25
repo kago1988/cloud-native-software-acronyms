@@ -21,4 +21,6 @@ EC2 = Elastic Cloud Compute
 S3 = Simple Storage Service  
 DNS = Domain Name System = "is responsible for translating domain names into a specific IP address so that the initiating client can load the requested Internet resources"  
 TCP/IP = Transmission Control Protocol / Internet Protocol = Internet protocol suite = "provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received"  
+HTTP = Hypertext Transfer Protocol = "Internet protocol suite model for distributed, collaborative, hypermedia information systems"  
+HTTPS = Hypertext Transfer Protocol Secure = "extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet"  
 ```
