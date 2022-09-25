@@ -1,6 +1,7 @@
 # some-important-acronyms-for-cloud-native-software-engineering
 (Hobby) Here is a list of important acronyms which are frequently used, when you work on cloud-native software 
 
+```
 AWS = Amazon Web Services  
 GCP = Google Cloud Platform  
 AKS = Azure Kubernetes Service  
@@ -18,4 +19,4 @@ PAT = personal acces token
 Terraform ami = terraform amazon machine image  
 EC2 = Elastic Cloud Compute  
 S3 = Simple Storage Service  
-
+```
