@@ -15,6 +15,7 @@ Cluster > Node > Pod > Container > App / Server / DB
 HCL = HashiCorp Configuration Language  
 gitlab-ci.yml = GitLabs Format für CI/CD.  
 azure ad = Azure active directory = "Schützen der Cloud-Umgebung mit Multicloud-Identitäts- und Zugriffsverwaltung"  
+azure rm = Azure resource manager  
 PAT = personal acces token  
 Terraform ami = terraform amazon machine image  
 EC2 = Elastic Cloud Compute  
