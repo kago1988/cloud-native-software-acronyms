@@ -37,4 +37,5 @@ LRS = Locally-redundant storage
 GRS = Globally-redundant storage  
 RA-GRS = Read-access globally-redundant storage  
 BLOB = Binary large object  
+SAS token = Shared access token = "often used for containers and Blobs"  
 ```
