@@ -36,4 +36,5 @@ FQDN = "fully-qualified domain name (FQDN) is that portion of an Internet Unifor
 LRS = Locally-redundant storage  
 GRS = Globally-redundant storage  
 RA-GRS = Read-access globally-redundant storage  
+BLOB = Binary large object  
 ```
