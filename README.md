@@ -30,4 +30,5 @@ Subnet mask = "used to divide an IP address into two parts. One part identifies 
 IP address = "An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network"  
 WSGI = Web Server Gateway Interface  
 ASGI = Asynchronous Server Gateway Interface (successor of WSGI)  
+Azure Bastion = "Azure Bastion is a fully managed service that provides more secure and seamless Remote Desktop Protocol (RDP) and Secure Shell Protocol (SSH) access to virtual machines (VMs) without any exposure through public IP addresses"  
 ```
