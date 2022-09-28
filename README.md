@@ -49,5 +49,5 @@ SSO = Single sign-on
 SaaS = Software as a service  
 IaaS = Infrastructure as a service  
 PaaS = Platform as a service  
-Azure ad tenant = "It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft"  
+Azure ad tenant = "A tenant represents an organization. It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft"  
 ```
