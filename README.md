@@ -31,6 +31,6 @@ IP address = "An IP address, or Internet Protocol address, is a series of number
 WSGI = Web Server Gateway Interface  
 ASGI = Asynchronous Server Gateway Interface (successor of WSGI)  
 Azure Bastion = "Azure Bastion is a fully managed service that provides more secure and seamless Remote Desktop Protocol (RDP) and Secure Shell Protocol (SSH) access to virtual machines (VMs) without any exposure through public IP addresses"  
-URL = niform Resource Locator (URL)  
+URL = Uniform Resource Locator (URL)  
 FQDN = "fully-qualified domain name (FQDN) is that portion of an Internet Uniform Resource Locator (URL) that fully identifies the server program that an Internet request is addressed to"  
 ```
