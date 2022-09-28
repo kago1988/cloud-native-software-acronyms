@@ -14,8 +14,8 @@ Declarative = yaml  / json / config
 Cluster > Node > Pod > Container > App / Server / DB  
 HCL = HashiCorp Configuration Language  
 gitlab-ci.yml = GitLabs Format für CI/CD.  
-azure ad = Azure active directory = "Schützen der Cloud-Umgebung mit Multicloud-Identitäts- und Zugriffsverwaltung"  
-azure rm = Azure resource manager  
+azure AD = Azure active directory = "Schützen der Cloud-Umgebung mit Multicloud-Identitäts- und Zugriffsverwaltung"  
+azure RM = Azure resource manager  
 PAT = personal acces token  
 Terraform ami = terraform amazon machine image  
 EC2 = Elastic Cloud Compute  
@@ -49,5 +49,5 @@ SSO = Single sign-on
 SaaS = Software as a service  
 IaaS = Infrastructure as a service  
 PaaS = Platform as a service  
-Azure ad tenant = "A tenant represents an organization. It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft"  
+Azure AD tenant = "A tenant represents an organization. It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft. A tenant has to join her device with Azure AD"  
 ```
