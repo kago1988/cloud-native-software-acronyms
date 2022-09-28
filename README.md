@@ -51,4 +51,5 @@ IaaS = Infrastructure as a service
 PaaS = Platform as a service  
 Azure AD tenant = "A tenant represents an organization. It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft. A tenant has to join her device with Azure AD"  
 Azure policy = "Azure Policy evaluates resources in Azure by comparing the properties of those resources to business rules."  
+YAML = Yet, another markup language  
 ```
