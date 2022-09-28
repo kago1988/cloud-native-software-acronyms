@@ -24,4 +24,7 @@ DNS = Domain Name System = "is responsible for translating domain names into a s
 TCP/IP = Transmission Control Protocol / Internet Protocol = Internet protocol suite = "provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received"  
 HTTP = Hypertext Transfer Protocol = "Internet protocol suite model for distributed, collaborative, hypermedia information systems"  
 HTTPS = Hypertext Transfer Protocol Secure = "extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet"  
+SSH = Secure Shell  
+RDP = Remote Desktop Protocol  
+Subnet mask = "used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs"  
 ```
