@@ -27,4 +27,5 @@ HTTPS = Hypertext Transfer Protocol Secure = "extension of the Hypertext Transfe
 SSH = Secure Shell  
 RDP = Remote Desktop Protocol  
 Subnet mask = "used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs"  
+IP address = "An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network"  
 ```
