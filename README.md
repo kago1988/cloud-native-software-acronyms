@@ -40,4 +40,7 @@ BLOB = Binary large object
 SAS token = Shared access token = "often used for containers and Blobs"  
 SSD = Solid-state drive  
 HDD = Hard-drive disk  
+VCS = Version control software  
+SCM = Source code management  
+CI/CD = Continuous integration / continuous delivery  
 ```
