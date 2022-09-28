@@ -44,4 +44,9 @@ VCS = Version control software
 SCM = Source code management  
 CI/CD = Continuous integration / continuous delivery  
 Idempotent template = "A template is called idempotent, if the following holds: If you run the template a second time, Azure Resource Manager won't make any changes to the deployed resources."  
+SSO = Single sign-on  
+2FA = Two-factor authentication  
+SaaS = Software as a service  
+IaaS = Infrastructure as a service  
+PaaS = Platform as a service  
 ```
