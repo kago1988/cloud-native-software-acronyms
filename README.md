@@ -6,10 +6,27 @@
 - **EKS**: Elastic Kubernetes Service
 - **EC2**: Elastic Cloud Compute
 - **S3**: Simple Storage Service
-- **Terraform ami**: Terraform Amazon Machine Image
+- **AZ**: Availability Zone
+- **VPC**: Virtual Private Cloud
+- **IAM**: Identity and Access Management
+- **RDS**: Relational Database Service
+- **Lambda**: AWS Lambda (Serverless Compute Service)
+- **CloudFront**: Content Delivery Network (CDN)
+- **CloudFormation**: Infrastructure as Code (IaC) service
+- **SNS**: Simple Notification Service
+- **SQS**: Simple Queue Service
 
 ## GCP (Google Cloud Platform)
 - **GKE**: Google Kubernetes Engine
+- **GCE**: Google Compute Engine
+- **GCS**: Google Cloud Storage
+- **Cloud Functions**: Serverless Compute Service
+- **Pub/Sub**: Messaging Service
+- **BigQuery**: Data Warehouse Solution
+- **Dataflow**: Stream and Batch Data Processing Service
+- **Firestore**: NoSQL Document Database
+- **Cloud Spanner**: Managed Relational Database Service
+- **Cloud Run**: Serverless Compute Service for Containers
 
 ## Azure
 - **AKS**: Azure Kubernetes Service
@@ -25,6 +42,8 @@
   _"Evaluates resources in Azure by comparing the properties of those resources to business rules"_
 - **Azure AD Tenant**:  
   _"A tenant represents an organization, a dedicated instance of Azure AD received at the beginning of a relationship with Microsoft"_
+- **Azure DNS**: Azure Domain Name System
+
 
 ## General Cloud Terms
 - **Imperative**: With CLI
@@ -72,4 +91,3 @@
 - **PaaS**: Platform as a Service
 - **YAML**: Yet Another Markup Language
 - **NSG**: Network Security Group
-- **Azure DNS**: Azure Domain Name System
