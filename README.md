@@ -1,57 +1,75 @@
-# cloud-native-software-acronyms
-(Hobby) Here is a list of important acronyms which are frequently used, when you work on cloud-native software 
+# Cloud-Native Software Acronyms
 
-```
-AWS = Amazon Web Services  
-GCP = Google Cloud Platform  
-AKS = Azure Kubernetes Service  
-EKS = Elastic Kubernetes Service  
-GKS = Google Kubernetes Engine  
-ARM = Azure Resource manager (Microsoft)  
-ACR = Azure Container Registry Instanz = "here you can push your docker-container images"  
-Imperative = with CLI  
-Declarative = yaml  / json / config  
-Cluster > Node > Pod > Container > App / Server / DB  
-HCL = HashiCorp Configuration Language  
-gitlab-ci.yml = GitLabs Format für CI/CD.  
-azure AD = Azure active directory = "Schützen der Cloud-Umgebung mit Multicloud-Identitäts- und Zugriffsverwaltung"  
-azure RM = Azure resource manager  
-PAT = personal acces token  
-Terraform ami = terraform amazon machine image  
-EC2 = Elastic Cloud Compute  
-S3 = Simple Storage Service  
-DNS = Domain Name System = "is responsible for translating domain names into a specific IP address so that the initiating client can load the requested Internet resources"  
-TCP/IP = Transmission Control Protocol / Internet Protocol = Internet protocol suite = "provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received"  
-HTTP = Hypertext Transfer Protocol = "Internet protocol suite model for distributed, collaborative, hypermedia information systems"  
-HTTPS = Hypertext Transfer Protocol Secure = "extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet"  
-SSH = Secure Shell  
-RDP = Remote Desktop Protocol  
-Subnet mask = "used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs"  
-IP address = "An IP address, or Internet Protocol address, is a series of numbers that identifies any device on a network"  
-WSGI = Web Server Gateway Interface  
-ASGI = Asynchronous Server Gateway Interface (successor of WSGI)  
-Azure Bastion = "Azure Bastion is a fully managed service that provides more secure and seamless Remote Desktop Protocol (RDP) and Secure Shell Protocol (SSH) access to virtual machines (VMs) without any exposure through public IP addresses"  
-URL = Uniform Resource Locator  
-FQDN = "fully-qualified domain name (FQDN) is that portion of an Internet Uniform Resource Locator (URL) that fully identifies the server program that an Internet request is addressed to"  
-LRS = Locally-redundant storage  
-GRS = Globally-redundant storage  
-RA-GRS = Read-access globally-redundant storage  
-BLOB = Binary large object  
-SAS token = Shared access token = "often used for containers and Blobs"  
-SSD = Solid-state drive  
-HDD = Hard-drive disk  
-VCS = Version control software  
-SCM = Source code management  
-CI/CD = Continuous integration / continuous delivery  
-Idempotent template = "A template is called idempotent, if the following holds: If you run the template a second time, Azure Resource Manager won't make any changes to the deployed resources."  
-SSO = Single sign-on  
-2FA = Two-factor authentication  
-SaaS = Software as a service  
-IaaS = Infrastructure as a service  
-PaaS = Platform as a service  
-Azure AD tenant = "A tenant represents an organization. It's a dedicated instance of Azure AD that an organization or app developer receives at the beginning of a relationship with Microsoft. A tenant has to join her device with Azure AD"  
-Azure policy = "Azure Policy evaluates resources in Azure by comparing the properties of those resources to business rules."  
-YAML = Yet, another markup language  
-NSG = Network Security Group  
-Azure DNS = Azure Domain Name System  
-```
+(Hobby) Here is a list of important acronyms which are frequently used when working on cloud-native software.
+
+## AWS (Amazon Web Services)
+- **EKS**: Elastic Kubernetes Service
+- **EC2**: Elastic Cloud Compute
+- **S3**: Simple Storage Service
+- **Terraform ami**: Terraform Amazon Machine Image
+
+## GCP (Google Cloud Platform)
+- **GKE**: Google Kubernetes Engine
+
+## Azure
+- **AKS**: Azure Kubernetes Service
+- **ARM**: Azure Resource Manager
+- **ACR**: Azure Container Registry  
+  _"Here you can push your Docker container images"_
+- **Azure AD**: Azure Active Directory  
+  _"Protects the cloud environment with multi-cloud identity and access management"_
+- **Azure RM**: Azure Resource Manager
+- **Azure Bastion**:  
+  _"A fully managed service providing secure and seamless RDP and SSH access to VMs without exposure through public IP addresses"_
+- **Azure Policy**:  
+  _"Evaluates resources in Azure by comparing the properties of those resources to business rules"_
+- **Azure AD Tenant**:  
+  _"A tenant represents an organization, a dedicated instance of Azure AD received at the beginning of a relationship with Microsoft"_
+
+## General Cloud Terms
+- **Imperative**: With CLI
+- **Declarative**: YAML / JSON / Config
+- **Cluster > Node > Pod > Container > App / Server / DB**
+- **HCL**: HashiCorp Configuration Language
+- **gitlab-ci.yml**: GitLab's format for CI/CD
+- **PAT**: Personal Access Token
+- **DNS**: Domain Name System  
+  _"Translates domain names into a specific IP address so the client can load the requested Internet resources"_
+- **TCP/IP**: Transmission Control Protocol / Internet Protocol  
+  _"Internet protocol suite providing end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received"_
+- **HTTP**: Hypertext Transfer Protocol  
+  _"Internet protocol suite model for distributed, collaborative, hypermedia information systems"_
+- **HTTPS**: Hypertext Transfer Protocol Secure  
+  _"Extension of HTTP for secure communication over a network, widely used on the Internet"_
+- **SSH**: Secure Shell
+- **RDP**: Remote Desktop Protocol
+- **Subnet Mask**:  
+  _"Used to divide an IP address into two parts. One part identifies the host (computer), the other part identifies the network to which it belongs"_
+- **IP Address**:  
+  _"A series of numbers identifying any device on a network"_
+- **WSGI**: Web Server Gateway Interface
+- **ASGI**: Asynchronous Server Gateway Interface (successor of WSGI)
+- **URL**: Uniform Resource Locator
+- **FQDN**: Fully-Qualified Domain Name  
+  _"Portion of a URL fully identifying the server program that an Internet request is addressed to"_
+- **LRS**: Locally-Redundant Storage
+- **GRS**: Globally-Redundant Storage
+- **RA-GRS**: Read-Access Globally-Redundant Storage
+- **BLOB**: Binary Large Object
+- **SAS Token**: Shared Access Token  
+  _"Often used for containers and Blobs"_
+- **SSD**: Solid-State Drive
+- **HDD**: Hard-Drive Disk
+- **VCS**: Version Control Software
+- **SCM**: Source Code Management
+- **CI/CD**: Continuous Integration / Continuous Delivery
+- **Idempotent Template**:  
+  _"A template is idempotent if no changes are made to the deployed resources when run a second time"_
+- **SSO**: Single Sign-On
+- **2FA**: Two-Factor Authentication
+- **SaaS**: Software as a Service
+- **IaaS**: Infrastructure as a Service
+- **PaaS**: Platform as a Service
+- **YAML**: Yet Another Markup Language
+- **NSG**: Network Security Group
+- **Azure DNS**: Azure Domain Name System
